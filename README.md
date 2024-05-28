@@ -9,3 +9,8 @@ An enthusiastic JavaScript developer 🚀 with expertise in React with TypeScrip
 
 | <a href="https://juejin.cn/user/2999123452372525"><img align="center" src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2999123452372525&hide_border=true" /></a> |
 | ------------- |
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zedfight/count.svg" />
+</p>
